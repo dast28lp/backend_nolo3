@@ -3,7 +3,7 @@ import logo from './logo.svg';
 // import './Style.css';
 
 
-// me siento mal v:
+// me siento mal v: 
 
 import Slider from './components/Slider/Slider';
 import Services from './components/Services/Services';
